@@ -10,8 +10,8 @@ function Footer() {
           </span>
         </div>  
         <div className="container text-center feet-space">
-          <a href="https://github.com/ndpenaloza" className="fa fa-github fa-2x social-link float-center" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/nick-d-penaloza-534a9229" className="fa fa-linkedin fa-2x social-link" target="_blank"></a>
+          <a href="https://github.com/ndpenaloza" className="fa fa-github fa-2x social-link float-center" target="_blank" rel="noreferrer" alt="GitHub icon"> </a>
+          <a href="https://www.linkedin.com/in/nick-d-penaloza-534a9229" className="fa fa-linkedin fa-2x social-link" target="_blank" rel="noreferrer" alt='LinkedIn icon'> </a>
         </div>
       </div>
     </div>
