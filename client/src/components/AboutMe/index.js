@@ -1,3 +1,11 @@
+import BridalVeil from '../../images/bridalVeil.jpg';
+import DelicateArch from '../../images/delicateArch.jpg';
+import GoldenGate from '../../images/goldenGate.jpg';
+import Isabella from '../../images/isabella.jpg';
+import Me from '../../images/me.jpg';
+import Pan from '../../images/pan.jpg';
+import TunnelView from '../../images/tunnelView.jpg';
+
 function AboutMe() {
   return (
     <div>
@@ -9,26 +17,27 @@ function AboutMe() {
                 <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
                   <div className="carousel-inner">
                     <div className="carousel-item active">
-                      <img className="d-block w-100" src="assets/images/IMG_5229.jpg" alt="Me"/>
+                      <img className="d-block w-100" src={Me} alt="Me"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/isabella.jpg" alt="Isabella"/>
+                      <img className="d-block w-100" src={Isabella} alt="Isabella"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/pan.jpg" alt="Sourdough bread"/>
+                      <img className="d-block w-100" src={Pan} alt="Sourdough bread"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/goldenGate.jpg" alt="The Golden Gate Bridge"/>
+                      <img className="d-block w-100" src={GoldenGate} alt="The Golden Gate Bridge"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/bridalVeil.jpg" alt="Bridal Veil Falls"/>
+                      <img className="d-block w-100" src={BridalVeil} alt="Bridal Veil Falls"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/tunnelView.jpg" alt="Tunnel View"/>
+                      <img className="d-block w-100" src={TunnelView} alt="Tunnel View"/>
                     </div>
                     <div className="carousel-item">
-                      <img className="d-block w-100" src="assets/images/delicateArch.jpg" alt="The Delicate Arch"/>
+                      <img className="d-block w-100" src={DelicateArch} alt="The Delicate Arch"/>
                     </div>
+                  </div>
                     <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                       <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                       <span className="sr-only">Previous</span>
@@ -37,7 +46,6 @@ function AboutMe() {
                       <span className="carousel-control-next-icon" aria-hidden="true"></span>
                       <span className="sr-only">Next</span>
                     </a>
-                  </div>
                 </div>
               </div>
             </div>
