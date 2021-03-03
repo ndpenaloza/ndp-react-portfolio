@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a20fe69c.chunk.css",
+    "main.js": "/static/js/main.a72faba3.chunk.js",
+    "main.js.map": "/static/js/main.a72faba3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe41acf5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe41acf5.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.c787b05f.chunk.js": "/static/js/2.c787b05f.chunk.js",
+    "static/js/2.c787b05f.chunk.js.map": "/static/js/2.c787b05f.chunk.js.map",
+    "static/js/3.dafeb3bc.chunk.js": "/static/js/3.dafeb3bc.chunk.js",
+    "static/js/3.dafeb3bc.chunk.js.map": "/static/js/3.dafeb3bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a20fe69c.chunk.css.map": "/static/css/main.a20fe69c.chunk.css.map",
+    "static/js/2.c787b05f.chunk.js.LICENSE.txt": "/static/js/2.c787b05f.chunk.js.LICENSE.txt",
+    "static/media/NDPenaloza-Resume.36764580.pdf": "/static/media/NDPenaloza-Resume.36764580.pdf",
+    "static/media/bridalVeil.125bbe54.jpg": "/static/media/bridalVeil.125bbe54.jpg",
+    "static/media/dashboard.c2e891c8.png": "/static/media/dashboard.c2e891c8.png",
+    "static/media/delicateArch.54d1a8eb.jpg": "/static/media/delicateArch.54d1a8eb.jpg",
+    "static/media/eatdaburger.60f43eb0.png": "/static/media/eatdaburger.60f43eb0.png",
+    "static/media/employee-tracker.5989725b.png": "/static/media/employee-tracker.5989725b.png",
+    "static/media/goldenGate.4b11bd5e.jpg": "/static/media/goldenGate.4b11bd5e.jpg",
+    "static/media/isabella.c5de92f3.jpg": "/static/media/isabella.c5de92f3.jpg",
+    "static/media/me.dfaad31e.jpg": "/static/media/me.dfaad31e.jpg",
+    "static/media/pan.7d4f43a3.jpg": "/static/media/pan.7d4f43a3.jpg",
+    "static/media/planner.b5f3f34e.png": "/static/media/planner.b5f3f34e.png",
+    "static/media/tunnelView.8e8eacb3.jpg": "/static/media/tunnelView.8e8eacb3.jpg",
+    "static/media/up-next.8f382638.png": "/static/media/up-next.8f382638.png",
+    "static/media/weather-dashboard.ff465da7.png": "/static/media/weather-dashboard.ff465da7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe41acf5.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c787b05f.chunk.js",
+    "static/css/main.a20fe69c.chunk.css",
+    "static/js/main.a72faba3.chunk.js"
+  ]
+}
