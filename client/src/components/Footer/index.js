@@ -3,8 +3,8 @@ function Footer() {
     <div>
       <div className="footer text-center">
         <div className="container text-center">
-          <span className="text-muted text-center">
-            <p>Nick D. Penaloza &copy; 2021</p>
+          <span className="text-muted text-center" style={{marginTop: 100}}>
+            <p style={{marginTop: 150}}>Nick D. Penaloza &copy; 2021</p>
             <p>ndpenaloza@gmail.com</p>
             <p>619-734-5193</p>
           </span>

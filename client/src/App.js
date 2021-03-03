@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Contact/>
           </Route>
         </Switch>
+        <Footer/>
       </div>
     </Router>
   );
