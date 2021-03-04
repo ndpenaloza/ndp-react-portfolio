@@ -10,17 +10,17 @@ function App() {
     <Router>
       <div>
         <Header/>
-        <Switch>
-          <Route exact path='/'>
-            <Home/>
-          </Route>
-          <Route exact path='/portfolio'>
-            <Portfolio/>
-          </Route>
-          <Route exact path='/contact'>
-            <Contact/>
-          </Route>
-        </Switch>
+          <Switch>
+            <Route exact path='/'>
+              <Home/>
+            </Route>
+            <Route exact path='/portfolio'>
+              <Portfolio/>
+            </Route>
+            <Route exact path='/contact'>
+              <Contact/>
+            </Route>
+          </Switch>
         <Footer/>
       </div>
     </Router>

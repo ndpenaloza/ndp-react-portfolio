@@ -49,11 +49,18 @@ i {
 }
 
 body {
+	height: 100%;
+	background-attachment: fixed;
 	margin-bottom: 150px;
-	animation: pulse 10s infinite;
+	/* animation: pulse 10s infinite; */
+	background-image: linear-gradient(
+		to bottom right,
+		rgba(26, 82, 118, 1),
+		rgba(0, 0, 255, 0.2)
+	);
 }
 
-@keyframes pulse {
+/* @keyframes pulse {
 	0% {
 		background-color: lightblue;
 	}
@@ -66,7 +73,7 @@ body {
 	100% {
 		background-color: lightblue;
 	}
-}
+} */
 
 /* body {
 	margin-bottom: 150px;
@@ -118,7 +125,8 @@ body {
 
 .portfolio-content {
 	margin-top: 70px;
-	margin-bottom: 100px;
+	margin-bottom: 75px;
+	background-color: white;
 }
 
 .form-control:valid {
