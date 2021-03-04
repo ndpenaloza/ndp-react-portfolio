@@ -1,6 +1,6 @@
 import AboutMe from '../components/AboutMe';
 
-function Home() {
+function Index() {
   return(
     <div>
       <AboutMe/>
@@ -9,4 +9,4 @@ function Home() {
 
 } 
 
-export default Home;
+export default Index;

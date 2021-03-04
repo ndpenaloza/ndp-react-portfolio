@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Home from './pages/Home';
+import Index from './pages/Index';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Header from './components/Header';
@@ -12,7 +12,7 @@ function App() {
         <Header/>
           <Switch>
             <Route exact path='/'>
-              <Home/>
+              <Index/>
             </Route>
             <Route exact path='/portfolio'>
               <Portfolio/>
