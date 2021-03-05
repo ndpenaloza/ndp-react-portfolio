@@ -11,11 +11,9 @@
 
 ## Description:
 
-This assignment required for us to create an application that is responsive to different screen sizes. The Bootstrap CSS Framework was used in order to create a responsive website.
+The is my personal portfolio page! It was built with [React.js](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com/). Please click on the [link](https://ndpenaloza.github.io/ndp-react-portfolio/) to learn a little about me, the technologies I have used, the projects I have worked on, links to my LinkedIn and GitHub profiles, ways to reach me, and my resume.
 
-This assignment required for us to create an application that is responsive to different screen sizes. The Bootstrap CSS Framework was used in order to create a responsive website.
-
-[Portfolio](https://ndpenaloza.github.io/portfolio/)
+[Portfolio](https://ndpenaloza.github.io/ndp-react-portfolio/)
 
 ## Screenshots
 
@@ -23,11 +21,11 @@ This assignment required for us to create an application that is responsive to d
 
 <summary>Expand/Collapse</summary>
 
-![About me](./assets/images/aboutme.png)
+![About me](./client/src/images/home.png)
 
-![Portfolio](./assets/images/portfolio.png)
+![Portfolio](./client/src/images/porto.png)
 
-![Contact](./assets/images/contact.png)
+![Contact](./client/src/images/contactme.png)
 
 </details>
 

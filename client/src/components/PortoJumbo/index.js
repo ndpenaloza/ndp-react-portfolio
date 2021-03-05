@@ -5,7 +5,7 @@ function PortoJumbo() {
         <div className="text-center white-words">
           <div className="jumbotron" style={{backgroundColor: '#1A5276', opacity: .9}}>
             <h2 style={{color: 'white'}}>Portfolio</h2>
-            <p style={{color: 'white'}}>Here are a few examples of the work that I have worked on.<br/> I have used HTML, CSS, Javascript, JQuery, Bootstrap, Materialize,<br/> Node, Express, Handlebars, SQL, Sequelize, and MongoDB </p>
+            <p style={{color: 'white'}}>Here are a few examples of the projects that I have worked on.<br/> I have used HTML, CSS, Javascript, JQuery, Bootstrap, Materialize,<br/> Node, Express, Handlebars, SQL, Sequelize, and MongoDB, <br/> Mongoose, and React.js! </p>
           </div>
         </div>
       </div>
