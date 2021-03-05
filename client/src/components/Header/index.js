@@ -18,7 +18,7 @@ function Header() {
                   <Link className="nav-link" to="/contact">Contact</Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href={NDPResume} target="_blank" rel="noreferrer">Resume</a>
+                  <Link className="nav-link" to={NDPResume} target="_blank" rel="noreferrer">Resume</Link>
                 </li>
               </ul>
             </div>
