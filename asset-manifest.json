@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ndp-react-portfolio/static/css/main.14f0f448.chunk.css",
-    "main.js": "/ndp-react-portfolio/static/js/main.4720d155.chunk.js",
-    "main.js.map": "/ndp-react-portfolio/static/js/main.4720d155.chunk.js.map",
+    "main.js": "/ndp-react-portfolio/static/js/main.495260ca.chunk.js",
+    "main.js.map": "/ndp-react-portfolio/static/js/main.495260ca.chunk.js.map",
     "runtime-main.js": "/ndp-react-portfolio/static/js/runtime-main.3b8b7c62.js",
     "runtime-main.js.map": "/ndp-react-portfolio/static/js/runtime-main.3b8b7c62.js.map",
     "static/css/2.150d169a.chunk.css": "/ndp-react-portfolio/static/css/2.150d169a.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.12a2c163.chunk.js",
     "static/css/main.14f0f448.chunk.css",
-    "static/js/main.4720d155.chunk.js"
+    "static/js/main.495260ca.chunk.js"
   ]
 }
