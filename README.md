@@ -2,6 +2,10 @@
 
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Logo">
+</p>
+
 ## Table of Contents
 
 1.  [Description](#Description)
