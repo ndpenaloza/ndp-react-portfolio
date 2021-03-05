@@ -1,3 +1,4 @@
+import {Link} from 'react-router-dom';
 import BridalVeil from '../../images/bridalVeil.jpg';
 import DelicateArch from '../../images/delicateArch.jpg';
 import GoldenGate from '../../images/goldenGate.jpg';
@@ -38,14 +39,14 @@ function AboutMe() {
                       <img className="d-block w-100" src={DelicateArch} alt="The Delicate Arch"/>
                     </div>
                   </div>
-                    <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <Link className="carousel-control-prev" to="#carouselExampleControls" role="button" data-slide="prev">
                       <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                       <span className="sr-only">Previous</span>
-                    </a>
-                    <a className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    </Link>
+                    <Link className="carousel-control-next" to="#carouselExampleControls" role="button" data-slide="next">
                       <span className="carousel-control-next-icon" aria-hidden="true"></span>
                       <span className="sr-only">Next</span>
-                    </a>
+                    </Link>
                 </div>
               </div>
             </div>
