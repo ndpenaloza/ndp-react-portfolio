@@ -14,7 +14,7 @@ function AboutMe() {
           <div className="row">
             <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
               <div className="container-fluid text-center">
-                <div id="carouselExampleControls" className="carousel slide carousel-fade" data-ride="carousel">
+                <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <img className="d-block w-100" src={Me} alt="Me"/>
