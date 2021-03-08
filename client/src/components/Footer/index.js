@@ -5,8 +5,6 @@ function Footer() {
         <div className="container text-center">
           <span className="text-center" style={{marginTop: 100, color: 'white'}}>
             <p style={{marginTop: 150}}>Nick D. Penaloza &copy; 2021</p>
-            <p>ndpenaloza@gmail.com</p>
-            <p>619-734-5193</p>
           </span>
         </div>  
         <div className="container text-center feet-space">
